@@ -1,6 +1,6 @@
 # Welcome to my project
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+URL for open ("https://mellow-twilight-3dec5f.netlify.app/")
 
 Follow these steps:
 
